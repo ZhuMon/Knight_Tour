@@ -50,8 +50,8 @@ void magic(int n){
             for (v = 0; v < 8; v++) {
                 nexti[v] = 0;
                 nextj[v] = 0;
-                nnx[y][v] = 0;
-                nny[y][v] = 0;
+                nnx[z][v] = 0;
+                nny[z][v] = 0;
                 nnpos[v] = 0;
                 
             }
